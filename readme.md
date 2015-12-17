@@ -10,7 +10,7 @@ Just follow these steps:
 1. [Register a new app for the Creative SDK](https://creativesdk.adobe.com/myapps.html) (Note your Client ID and Secret. You will need them soon.)
 1. `git clone` the repo
 1. In your computer's Finder or File Browser, add the `creativesdk-repo` directory to the _top level of your app directory_
-1. Add a new Java class calls `Keys`
+1. Add a new Java class called `Keys`
   1. See the section below for the code to put in the `Keys` class
   1. Add your Client ID and Secret to the `Keys` class
 1. Sync your Gradle files and run the app 
