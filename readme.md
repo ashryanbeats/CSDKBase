@@ -4,10 +4,16 @@ This repo is the foundation for an Android integration of the Creative SDK as co
 
 ## How to use
 
-Just follow these steps:
+Just follow the steps below.
+
+### In your browser
 
 1. [Download the Creative SDK for Android](https://creativesdk.adobe.com/downloads.html)
 1. [Register a new app for the Creative SDK](https://creativesdk.adobe.com/myapps.html) (Note your Client ID and Secret. You will need them soon.)
+
+
+### In your local development environment
+
 1. `git clone` the repo
 1. In your computer's Finder or File Browser, add the `creativesdk-repo` directory to the _top level of your app directory_  
     ![](https://github.com/ashryanbeats/CSDKBase/blob/screenshots/screenshots/add-creativesdk-repo.png)
