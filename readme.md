@@ -10,7 +10,7 @@ Just follow these steps:
 1. [Register a new app for the Creative SDK](https://creativesdk.adobe.com/myapps.html) (Note your Client ID and Secret. You will need them soon.)
 1. `git clone` the repo
 1. In your computer's Finder or File Browser, add the `creativesdk-repo` directory to the _top level of your app directory_  
-    ![]()
+    ![](https://github.com/ashryanbeats/CSDKBase/blob/screenshots/screenshots/add-creativesdk-repo.png)
 
 1. Add a new Java class called `Keys` with this code:  
 
